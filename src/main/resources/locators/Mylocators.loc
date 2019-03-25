@@ -1,0 +1,6 @@
+
+
+guru99.url=http://demo.guru99.com/popup.php
+guru99.emailid=//*[@name="emailid"]
+guru99.clickhere =Click Here
+
